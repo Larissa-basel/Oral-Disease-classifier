@@ -1,0 +1,18 @@
+{
+  "class_to_idx": {
+    "Calculus": 0,
+    "Caries": 1,
+    "Gingivitis": 2,
+    "Hypodontia": 3,
+    "Mouth_Ulcer": 4,
+    "Tooth_Discoloration": 5
+  },
+  "idx_to_class": {
+    "0": "Calculus",
+    "1": "Caries",
+    "2": "Gingivitis",
+    "3": "Hypodontia",
+    "4": "Mouth_Ulcer",
+    "5": "Tooth_Discoloration"
+  }
+}

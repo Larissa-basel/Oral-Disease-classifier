@@ -1,0 +1,23 @@
+{
+  "img_size": 224,
+  "models": {
+    "custom_cnn": {
+      "file": "custom_cnn.keras",
+      "preprocessing": "rescale_1_255",
+      "test_accuracy": 0.6778443113772455,
+      "macro_f1": 0.6250614688573853
+    },
+    "efficientnetb0": {
+      "file": "efficientnetb0.keras",
+      "preprocessing": "efficientnet",
+      "test_accuracy": 0.8071856498718262,
+      "macro_f1": 0.7871211928766982
+    },
+    "resnet50": {
+      "file": "resnet50.keras",
+      "preprocessing": "resnet50",
+      "test_accuracy": 0.8275449275970459,
+      "macro_f1": 0.8171585263553806
+    }
+  }
+}
