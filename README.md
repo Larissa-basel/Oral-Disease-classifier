@@ -2,7 +2,7 @@
 
 A 6-class oral disease image classifier comparing a custom-built CNN against transfer learning with EfficientNetB0 and ResNet50 (each evaluated frozen and fine-tuned). Includes an interactive Streamlit app to run all three models on an uploaded photo side by side.
 
-**🔗 Live demo:** oral-disease-classifier-eduydiaum8emgapgbwspdk.streamlit.app
+**🔗 Live demo:** [oral-disease-classifier-eduydiaum8emgapgbwspdk.streamlit.app](https://oral-disease-classifier-eduydiaum8emgapgbwspdk.streamlit.app/)
 
 ## Results
 
