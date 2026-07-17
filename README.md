@@ -2,7 +2,7 @@
 
 A 6-class oral disease image classifier comparing a custom-built CNN against transfer learning with EfficientNetB0 and ResNet50 (each evaluated frozen and fine-tuned). Includes an interactive Streamlit app to run all three models on an uploaded photo side by side.
 
-**🔗 Live demo:** _add your streamlit.app link here after deploying_
+**🔗 Live demo:** oral-disease-classifier-eduydiaum8emgapgbwspdk.streamlit.app
 
 ## Results
 
@@ -31,7 +31,8 @@ Python · TensorFlow / Keras · Streamlit · scikit-learn · Google Colab
 
 ```
 oral-disease-classifier/
-├── app.py                  # Streamlit app
+├── app.py                      # Streamlit app
+├── new-ver-oral-diseas.ipynb   # Model training notebook
 ├── requirements.txt
 └── saved_models/
     ├── custom_cnn.keras
